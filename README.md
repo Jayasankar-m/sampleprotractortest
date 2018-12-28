@@ -1,4 +1,5 @@
 # sampleprotractortest
+sample test for protractor
 
 # installation
 `npm install -g protractor`
